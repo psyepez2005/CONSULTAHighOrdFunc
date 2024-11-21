@@ -77,4 +77,4 @@ val e5: Double = calError(1.71828,r5)   //= 5.811518765928003E-4 (es notación c
 
 val e6: Double = calError(0.828427,r6)  //= 4.2185081624213083E-4 (es notación científica)= 0.00042185081624213083
 
-val e7: Double = calError(0.785398,r7) 
+val e7: Double = calError(0.785398,r7) 	//= 0.0020646666666667146
